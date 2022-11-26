@@ -1,0 +1,30 @@
+[
+  {
+    "name": "@s4tk/compression",
+    "version": "0.2.0"
+  },
+  {
+    "name": "@s4tk/encoding",
+    "version": "0.1.4"
+  },
+  {
+    "name": "@s4tk/hashing",
+    "version": "0.2.1"
+  },
+  {
+    "name": "@s4tk/images",
+    "version": "0.2.3"
+  },
+  {
+    "name": "@s4tk/models",
+    "version": "0.6.5"
+  },
+  {
+    "name": "@s4tk/tunables",
+    "version": "0.2.0"
+  },
+  {
+    "name": "@s4tk/xml-dom",
+    "version": "0.2.4"
+  }
+]
