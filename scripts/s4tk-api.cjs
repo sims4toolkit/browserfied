@@ -20,6 +20,6 @@ window.S4TK = {
   xmlDom,
 };
 
-window.Node = {
+window.NodeJS = {
   Buffer,
 };
