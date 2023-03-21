@@ -14,5 +14,5 @@ for (const name in pkg.devDependencies) {
 
 fs.writeFileSync(
   path.resolve(__dirname, "../build/s4tk.specs.json"),
-  JSON.stringify(versions, null, 2)
+  JSON.stringify(versions)
 );
