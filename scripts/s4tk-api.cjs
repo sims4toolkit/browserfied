@@ -8,6 +8,7 @@ const models = require("@s4tk/models");
 models.enums = require("@s4tk/models/enums");
 models.simdata = require("@s4tk/models/simdata");
 const tunables = require("@s4tk/tunables");
+const validation = require("@s4tk/validation");
 const xmlDom = require("@s4tk/xml-dom");
 
 window.S4TK = {
@@ -17,6 +18,7 @@ window.S4TK = {
   hashing,
   models,
   tunables,
+  validation,
   xmlDom,
 };
 
